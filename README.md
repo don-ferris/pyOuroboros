@@ -17,7 +17,7 @@ Make it even better by looking up more puthon commands and integrating them into
 
 Enjoy!
 
-**Suggestions and collaboration greatly appreciated! Pull requests happily granted!**
+## Suggestions and collaboration greatly appreciated! Pull requests happily granted!
 
 
 
