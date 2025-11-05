@@ -1,6 +1,6 @@
 # pyOuroboros
 A python script for learning python!
-
+ <img src="./Ouroboros.jpg" alt="Ouroboros" width="400"/>
 This python script explains and displays its python code as it executes it so that anyone can learn to code with python.
 
 Recommended Usage:
