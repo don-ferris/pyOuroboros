@@ -1,14 +1,25 @@
 # pyOuroboros
 A python script for learning python!
- <img src="./Ouroboros.jpg" alt="Ouroboros" width="400"/>
+
+<p align="center">
+  <img src="./Ouroboros.jpg" alt="Ouroboros" width="300"/>
+</p>
+
 This python script explains and displays its python code as it executes it so that anyone can learn to code with python.
 
 Recommended Usage:
-git clone the repo then run the script.
-Open the script, look at the code, and make some changes.
-Run the script and see your changes.
-Lather, rinse, repeat!
+1. clone the repo then run the script.
+2. Open the script, look at the code, and make some changes.
+3. Run the script and see your changes.
+4. Lather, rinse, repeat!
+
+Make it even better by looking up more puthon commands and integrating them into the script.
+
 Enjoy!
+
+**Suggestions and collaboration greatly appreciated! Pull requests happily granted!**
+
+
 
 🌀 Ouroboros - Meaning and Origins:
 
